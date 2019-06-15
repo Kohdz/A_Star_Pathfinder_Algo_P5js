@@ -1,0 +1,47 @@
+.w-slider{
+  display: flex;
+  /* flex-direction: column; */
+  float: left;
+  margin-top: 10vw;
+  margin-right: 5vw;
+  margin-left: 4vw;
+  
+
+}
+
+.p5Canvas {
+  display: flex;
+  float: left;
+  margin-top: 3vw;
+}
+
+.angle-slider{
+  display: flex;
+  margin: auto;
+  margin-bottom: 9vw;
+
+}
+
+.ledIcon{
+
+}
+
+
+
+    /* #defaultCanvas0 {
+ 
+      display: flex;
+      justify-content: left ;
+      align-items: left;
+      overflow: hidden;
+   
+    } */
+
+    /* .w-slider {
+      display: block;
+      position: absolute;
+      padding-top: 6vh;
+ 
+      margin-left: 15vw;
+  
+    } */
